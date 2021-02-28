@@ -5,7 +5,6 @@ stage ("build"){
 steps{
 echo "fuck you"
 echo "My branch is: ${env.BRANCH_NAME}"
-build pipeline
 }
 }
 }
